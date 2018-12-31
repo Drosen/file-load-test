@@ -21,4 +21,7 @@
   <ItemGroup>
     <ResourceCompile Include="icon.rc" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="FileLoading.PNG" />
+  </ItemGroup>
 </Project>
